@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-🔭 Actualmente terminando mi carrera en informática aplicada<br>👥 Buscando desarrollar mis habilidades de Full Stack Dev<br>🌱 Aprendiendo MERN<br>⚡ 22 años<br>
+🔭 Actualmente terminando mi carrera en informática aplicada<br>👥 Buscando desarrollar mis habilidades de Full Stack Dev<br>
 
 
 # 💻 Tech Stack:
