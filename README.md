@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-🔭 Actualmente terminando mi carrera en informática aplicada<br>👥 Buscando desarrollar mis habilidades de desarrollador Backend<br>
+🎓 Recibido de Técnico Superior en Informática Aplicada<br>👥 Buscando desarrollar mis habilidades de desarrollador Backend<br>
 
 
 # 💻 Tech Stack:
